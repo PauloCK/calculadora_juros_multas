@@ -9,7 +9,7 @@ Adiciona o campo `abcd` à tabela `efgh`.
 ## Tipo de Mudança
 
 - [X] Criação de Tabela
-- [ ] Inclusão de Coluna
+- [X] Inclusão de Coluna
 - [ ] Correção de Cálculo de Coluna
 - [ ] Troca de Nome de Coluna
 - [ ] Anonimização de Colunas
